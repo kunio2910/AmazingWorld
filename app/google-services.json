@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457048988345",
+    "firebase_url": "https://amazingworld-a9371.firebaseio.com",
+    "project_id": "amazingworld-a9371",
+    "storage_bucket": "amazingworld-a9371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457048988345:android:048bbb20501c94ad1ad968",
+        "android_client_info": {
+          "package_name": "com.letran.amazingworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457048988345-grgfekrlq3i80ek0fi4ua0dp9v59lljj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIv_rHuZrBA1Mbz-euqd8XFL3qC2XlLvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457048988345-grgfekrlq3i80ek0fi4ua0dp9v59lljj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
